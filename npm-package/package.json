@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DBrowser baased game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L3GO321/npm-package.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Oleg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L3GO321/npm-package/issues"
+  },
+  "homepage": "https://github.com/L3GO321/npm-package#readme"
+}
